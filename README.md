@@ -34,10 +34,28 @@ dotnet run 4      # just one (e.g. JSON basics)
 - [File and stream I/O](https://learn.microsoft.com/en-us/dotnet/standard/io/)
 - [System.Text.Json overview](https://learn.microsoft.com/en-us/dotnet/standard/serialization/system-text-json/overview)
 
+## The series
+
+← Previous: [09 Strings & text](https://github.com/zlatunicm/csharp-strings-examples) · Next: [11 MiniShop microservices (finale)](https://github.com/zlatunicm/minishop-microservices) →
+
+| Part | Topic |
+|---|---|
+| 01 | [Collections](https://github.com/zlatunicm/csharp-collections-examples) |
+| 02 | [LINQ](https://github.com/zlatunicm/csharp-linq-examples) |
+| 03 | [Delegates & events](https://github.com/zlatunicm/csharp-delegates-events-examples) |
+| 04 | [Async/await](https://github.com/zlatunicm/csharp-async-examples) |
+| 05 | [Generics](https://github.com/zlatunicm/csharp-generics-examples) |
+| 06 | [Types & memory](https://github.com/zlatunicm/csharp-types-memory-examples) |
+| 07 | [Exceptions](https://github.com/zlatunicm/csharp-exceptions-examples) |
+| 08 | [Modern C# 8–12](https://github.com/zlatunicm/csharp-modern-examples) |
+| 09 | [Strings & text](https://github.com/zlatunicm/csharp-strings-examples) |
+| 10 | **Files & JSON** (this repo) |
+| 11 | [MiniShop microservices (finale)](https://github.com/zlatunicm/minishop-microservices) |
+
 ## Author
 
 **Matej Zlatunić**
 
 ## License
 
-[MIT](https://opensource.org/licenses/MIT).
+Released under the [MIT License](LICENSE). Feel free to use it for learning.
